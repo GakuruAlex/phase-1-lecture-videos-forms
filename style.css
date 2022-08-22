@@ -1,0 +1,24 @@
+body{
+background-color: pink;
+
+}
+
+.field{
+    background-color:white;
+height: 250px;
+width: 600px;
+margin-left: 5px;
+}
+
+form
+{
+    padding: 10px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+#new_todo{
+margin-top: 10px;
+margin-left: 10px;
+}
